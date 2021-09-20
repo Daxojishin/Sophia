@@ -94,7 +94,7 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/Hisham-Muhammed/Sophia-Mwol
+$ git clone https://github.com/Daxojishin/Sophia
 $ cd Sophia-Mwol
 $ chmod +x *
 $ npm install @adiwajshing/baileys
