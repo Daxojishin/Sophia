@@ -55,7 +55,9 @@ Click WA logo to Join Support Group ðŸ‘‡
 <br>
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/CYGahR3hC1DHq44n4ri5J6)
 
-## 
+## loy?template=https://github.com/Hisham-Muhammed/Sophia-.git)
+     </div>
+<br>
   <h3 align="center">ðŸ“¢ Support Group 2:</h3>
 <p align="center">
 Click Sophia logo to Join Support Group 2ðŸ‘‡
@@ -71,9 +73,7 @@ Click Sophia logo to Join Support Group 2ðŸ‘‡
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Hisham-Muhammed/Sophia-.git)
-     </div>
-<br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/dep
 <br >
 If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux
 ```
@@ -85,9 +85,7 @@ bash <(curl -L https://t.ly/tHxh)
 GET QR
 $ apt update
 $ apt install nodejs --fix-missing
-$ pkg install git
-$ git clone https://github.com/Hisham-Muhammed/Sophia-Mwol
-$ cd pikachu
+$ pkg install https://github.com/Daxojishin/Sophia
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
